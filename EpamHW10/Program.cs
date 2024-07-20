@@ -48,7 +48,7 @@ namespace EpamHW10
             }
             catch (Exception e) // перевірка коректності
             {
-                Console.WriteLine("Помилка: {0} ", e.Message);
+                Console.WriteLine("Помилка: {0} ", e.Message);//
             }
 
         }
